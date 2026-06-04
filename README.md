@@ -23,7 +23,7 @@ I am currently transitioning into IAM engineering with a focus on Okta, enterpri
 | # | Lab | Category | Status |
 |---|-----|----------|--------|
 | 01 | Create Users Manually | Account Creation | ✅ Complete |
-| 02 | Create Custom Attributes | Account Creation | ⬜ Not Started |
+| 02 | Create Custom Attributes | Account Creation | ✅ Not Started |
 | 03 | Assign Admin Roles | Account Creation | ⬜ Not Started |
 | 04 | Create Groups and Group Rules | Account Creation | ⬜ Not Started |
 | 05 | Add OIN App Integration | App Setup | ⬜ Not Started |
