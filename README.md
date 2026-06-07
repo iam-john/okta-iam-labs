@@ -27,7 +27,7 @@ I am currently transitioning into IAM engineering with a focus on Okta, enterpri
 | 03 | Assign Admin Roles | Account Creation | ✅ Complete |
 | 04 | Create Groups and Group Rules | Account Creation | ✅ Complete |
 | 05 | Add OIN App Integration | App Setup | ✅ Complete |
-| 06 | Configure Custom SAML | App Setup | ⬜ Not Started |
+| 06 | Configure Custom SAML | App Setup | ✅ Complete |
 | 07 | Set Up Provisioning | App Setup | ⬜ Not Started |
 | 08 | Group-Based App Assignment | App Setup | ⬜ Not Started |
 | 09 | Add and Remove Authenticators | Security | ⬜ Not Started |
