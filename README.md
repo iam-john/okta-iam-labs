@@ -29,7 +29,7 @@ I am currently transitioning into IAM engineering with a focus on Okta, enterpri
 | 05 | Add OIN App Integration | App Setup | ✅ Complete |
 | 06 | Configure Custom SAML | App Setup | ✅ Complete |
 | 07 | Set Up Provisioning | App Setup | ✅ Complete |
-| 08 | Group-Based App Assignment | App Setup | ⬜ Not Started |
+| 08 | Group-Based App Assignment | App Setup | ✅ Complete |
 | 09 | Add and Remove Authenticators | Security | ⬜ Not Started |
 | 10 | Configure Enrollment Policies | Security | ⬜ Not Started |
 | 11 | Global Session Policy Rule | Security | ⬜ Not Started |
