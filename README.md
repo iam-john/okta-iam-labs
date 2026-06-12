@@ -35,7 +35,7 @@ I am currently transitioning into IAM engineering with a focus on Okta, enterpri
 | 11 | Global Session Policy Rule | Security | ✅ Complete |
 | 12 | Authentication Policy and Rules | Security | ✅ Complete |
 | 13 | Attribute Mapping (Okta to App) | Offboarding | ✅ Complete |
-| 14 | Deactivate User and Verify | Offboarding | ⬜ Not Started |
+| 14 | Deactivate User and Verify | Offboarding | ✅ Completed |
 | 15 | System Log Mastery | Troubleshooting | ⬜ Not Started |
 | 16 | User State Transitions | Lifecycle | ⬜ Not Started |
 
