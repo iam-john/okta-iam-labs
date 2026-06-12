@@ -32,7 +32,7 @@ I am currently transitioning into IAM engineering with a focus on Okta, enterpri
 | 08 | Group-Based App Assignment | App Setup | ✅ Complete |
 | 09 | Add and Remove Authenticators | Security | ✅ Complete |
 | 10 | Configure Enrollment Policies | Security | ✅ Complete |
-| 11 | Global Session Policy Rule | Security | ⬜ Not Started |
+| 11 | Global Session Policy Rule | Security | ✅ Complete |
 | 12 | Authentication Policy and Rules | Security | ⬜ Not Started |
 | 13 | Attribute Mapping (Okta to App) | Offboarding | ⬜ Not Started |
 | 14 | Deactivate User and Verify | Offboarding | ⬜ Not Started |
